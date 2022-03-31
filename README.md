@@ -19,3 +19,6 @@ How to browse through the project?
 9.Fill in shippin details
 10.Fill in PAyment Details
 11.As you click on PAy now you will see a pop-up saying Order Placed and youl will be redirected to Home?Landing page (index.html)
+
+
+Netlify Link - https://sparkling-liger-c4a2fc.netlify.app
