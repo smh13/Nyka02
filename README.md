@@ -19,7 +19,7 @@ How to browse through the project?
 Netlify Link - https://sparkling-liger-c4a2fc.netlify.app
 Medium Link(blog) - https://medium.com/@hashmisyedmustafa13/my-experience-on-construct-week-2-on-my-masai-journey-cloning-nykaa-in-5-days-3c5d4886dac5
 
-Video Link- https://drive.google.com/file/d/1Mq61P4_QEYC864sBm7-Dlw9lBMfA5peK/view?usp=sharing
-=======
+<!-- Video Link- https://drive.google.com/file/d/1Mq61P4_QEYC864sBm7-Dlw9lBMfA5peK/view?usp=sharing
+======= -->
 
 >>>>>>> 71390079ad7aa9343da3d33452f4dba33c4a43a8
